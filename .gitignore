@@ -1,0 +1,14 @@
+# JDK files - too large for GitHub
+oracleJdk-25/
+
+# Java class files (can be recompiled)
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
